@@ -1,9 +1,6 @@
-# 🛒 Online Shopping Cart (Python OOP Project)
+# 🛒 Online Shopping Cart (Python Project)
 
 A simple **console-based shopping cart system** using **Object-Oriented Programming** in Python. You can browse, add, remove, and update products with JSON-based file persistence.
-
----
-
 ## ✨ Features
 
 - View physical and digital products
@@ -11,9 +8,6 @@ A simple **console-based shopping cart system** using **Object-Oriented Programm
 - View cart summary with total price
 - Auto-save and load cart using JSON
 - Clean beginner-friendly OOP design
-
----
-
 ## 🧠 OOP Concepts Used
 
 - **Inheritance** – Product subclasses for physical/digital items  
@@ -21,8 +15,6 @@ A simple **console-based shopping cart system** using **Object-Oriented Programm
 - **Polymorphism** – Custom `__str__()` for products  
 - **Abstraction** – Logic hidden in methods  
 - **Magic Methods** – `__init__`, `__str__`, etc.
-
----
 
 ## 🚀 How to Run
 
@@ -35,24 +27,18 @@ python shopping_cart.py
 
 3. Follow the menu in terminal.
 
----
-
 ## 📁 Project Files
 
 - `shopping_cart.py` – Main Python script  
 - `cart_data.json` – Cart persistence (auto-generated)  
-- `README.md` – Project overview  
-
----
+- `README.md` – Project overview
+- 'capture'- <img width="1920" height="988" alt="image" src="https://github.com/user-attachments/assets/5b8e590c-047f-4ebf-a596-693aba4069c3" />
 
 ## 🙋‍♀️ Why Try This?
 
 - Practice real-world OOP in Python
 - Understand file handling with JSON
 - Great for DSA + Python beginners
+## 👤 :
 
----
-
-## 👤 Author
-
-**Urbi Mangal** – Made with ❤️ in Python.
+**Dendipriyankareddy** – Made with ❤️ in Python.
