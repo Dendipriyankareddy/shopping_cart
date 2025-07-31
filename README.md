@@ -32,7 +32,7 @@ python shopping_cart.py
 - `shopping_cart.py` – Main Python script  
 - `cart_data.json` – Cart persistence (auto-generated)  
 - `README.md` – Project overview
-- 'capture'- <img width="1920" height="988" alt="image" src="https://github.com/user-attachments/assets/5b8e590c-047f-4ebf-a596-693aba4069c3" />
+- 'Capture.PNG'- <img width="1920" height="988" alt="image" src="https://github.com/user-attachments/assets/5b8e590c-047f-4ebf-a596-693aba4069c3" />
 
 ## 🙋‍♀️ Why Try This?
 
